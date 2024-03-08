@@ -1,30 +1,10 @@
 # {BR&SRI} Humanoid Robotics Working Group
 
-{{
-TEMPLATE: This repository acts as a template for individual Working Groups to start from.
-All information in double curly-braces must be replaced with details for the specific Working Group.
-NOTE: check the issue and pull request templates as well, under `.github` directory.
-
-This is a template repository.
-When starting a new working group, [use this template](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) to create a new repository in the WG organization.
-}}
-
-This document defines the scope and governance of the Working Group (WG).
-
-{{Mission: The {{Humanoid Robotics}} Working Group's mission is to...}}
+Mission: The Humanoid Robotics Working Group's mission is to to build the architecture of humanoid robotics build that is
 
 {{Scope: the types of topics, tools, libraries, applications, documents, etc, that this working group focuses on. }}
 
-## Subprojects
-
-This Working Group owns and maintains the following Subprojects.
-Its meetings and membership are largely focused on the direction, design, and work on the projects.
-
 ### Subproject List
-
-
-{{
-
 
 * BR&SRI Humanoid Robot Intelligence Control System Framework
   * Description: ROS/ROS2 Humanoid Robotics Framework
@@ -56,8 +36,6 @@ Its meetings and membership are largely focused on the direction, design, and wo
   * Repositories
     * https://github.com/Robotics-Sensors/humanoid_robot_intelligence_control_system_demos
 
-
-}}
 
 ### Standards for subprojects
 
@@ -97,6 +75,7 @@ PR will be merged on unanimous approval from Approvers.
 If the repositories of the subproject are under the WG's GitHub organization, they will be transferred out of the organization or deleted at this time.
 
 ## Governance
+- Ronaldson Bellande
 
 ### Meetings
 
@@ -105,8 +84,8 @@ If the repositories of the subproject are under the WG's GitHub organization, th
   * {{what artifacts will be posted after the meetings, e.g. Minutes, Recordings}}
 
 ### Communication Channels
-
-{{How can members communicate with each other? Discourse, Discord, IRC, email list, etc.}}
+- Email: ronaldsonbellande@gmail.com
+- 
 
 ### Backlog Management
 
@@ -117,19 +96,19 @@ If the repositories of the subproject are under the WG's GitHub organization, th
 Working Group members may act in one or more of the following roles:
 
 * **Member**
-  * Prerequisite: Attend at least one out of the last three Working Group meetings
+  * Ronaldson Bellande
   * Responsible for triaging issues
 * **Reviewer**
-  * All reviewers are members
+  * Ronaldson Bellande
   * Prerequisite: Proven track record of high-quality reviews to WG Subprojects
   * Responsible for reviewing pull requests
 * **Approver**
-  * All approvers are reviewers
+  * Ronaldson Bellande
   * Prerequisite: Proven track record of high-quality contributions and reviews to WG Subprojects
   * Responsible for approving and merging pull requests
   * Responsible for vetting and accepting new projects into the Working Group
 * **Lead**
-  * TSC member or their delegate
+  * Ronaldson Bellande
   * Responsible for organizing and moderating working group meetings
   * Responsible for posting meeting materials (minutes, recordings, etc.)
   * Responsible for breaking ties
