@@ -2,39 +2,39 @@
 
 Mission: The Humanoid Robotics Working Group's mission is to to build the architecture of humanoid robotics build that is
 
-{{Scope: the types of topics, tools, libraries, applications, documents, etc, that this working group focuses on. }}
+Scope: The Scope of this working group will be to inovate and create new libraries, api, packages that is widely used by every researcher from industies and universities
 
 ### Subproject List
 
 * BR&SRI Humanoid Robot Intelligence Control System Framework
   * Description: ROS/ROS2 Humanoid Robotics Framework
   * Repositories
-    * https://github.com/Robotics-Sensors/humanoid_robot_intelligence_control_system_framework
+    * [Humanoid Robot Intelligence Control System Framework](https://github.com/Robotics-Sensors/humanoid_robot_intelligence_control_system_framework)
 
 * BR&SRI Humanoid Robot Intelligence Control System Module
   * Description: ROS/ROS2 Humanoid Robotics Module
   * Repositories
-    * https://github.com/Robotics-Sensors/humanoid_robot_intelligence_control_system_module
+    * [Humanoid Robot Intelligence Control System Module](https://github.com/Robotics-Sensors/humanoid_robot_intelligence_control_system_module)
 
 * BR&SRI Humanoid Robot Intelligence Control System Utility
   * Description: ROS/ROS2 Humanoid Robotics Utility
   * Repositories
-    * https://github.com/Robotics-Sensors/humanoid_robot_intelligence_control_system_utility
+    * [Humanoid Robot Intelligence Control System Utility](https://github.com/Robotics-Sensors/humanoid_robot_intelligence_control_system_utility)
 
 * BR&SRI Humanoid Robot Intelligence Control System Messages
   * Description: ROS/ROS2 Humanoid Robotics Messages
   * Repositories
-    * https://github.com/Robotics-Sensors/humanoid_robot_intelligence_control_system_messages
+    * [Humanoid Robot Intelligence Control System Messages](https://github.com/Robotics-Sensors/humanoid_robot_intelligence_control_system_messages)
 
 * BR&SRI Humanoid Robot Intelligence Control System Tools
   * Description: ROS/ROS2 Humanoid Robotics Tools
   * Repositories
-    * https://github.com/Robotics-Sensors/humanoid_robot_intelligence_control_system_tools
+    * [Humanoid Robot Intelligence Control System Tools](https://github.com/Robotics-Sensors/humanoid_robot_intelligence_control_system_tools)
 
 * BR&SRI Humanoid Robot Intelligence Control System Demos
   * Description: ROS/ROS2 Humanoid Robotics Demos
   * Repositories
-    * https://github.com/Robotics-Sensors/humanoid_robot_intelligence_control_system_demos
+    * [Humanoid Robot Intelligence Control System Demos](https://github.com/Robotics-Sensors/humanoid_robot_intelligence_control_system_demos)
 
 
 ### Standards for subprojects
@@ -79,17 +79,20 @@ If the repositories of the subproject are under the WG's GitHub organization, th
 
 ### Meetings
 
-* Regular WG Meeting: {{time schedule for meetings}}
-  * {{when and where will meetings be announced}}
-  * {{what artifacts will be posted after the meetings, e.g. Minutes, Recordings}}
+* Regular WG Meeting: 6:00 PM EST
+  * The meetings be announced in [Discourse](https://discourse.ros.org/t/potential-humanoid-robotics-monthly-working-group/36426/11), [Discord](https://discord.gg/uETm8hKN2U) as well as our [Bellande Rebotics & Sensors Research Innovation Center Website](robotics-sensors.github.io)
+
+  * The Meeting will be video will be posted in [BR&SRI Youtube channel](https://www.youtube.com/channel/UC2dG9_JAw4NCug0G98JnQ5A)
 
 ### Communication Channels
 - Email: ronaldsonbellande@gmail.com
-- 
+- Discord Group: https://discord.gg/uETm8hKN2U
+- Google Group: https://groups.google.com/g/humanoid-robotics
+- Email Group: humanoid-robotics@googlegroups.com
 
 ### Backlog Management
 
-{{Is any project management software/site used to track work for this Working Group? How can new members discover the highest impact tasks they could take on? GitHub Projects, ZenHub, etc.}}
+The Working group management will be working in the [Bellande Rebotics & Sensors Research Innovation Center Github](https://github.com/Robotics-Sensors) and Where thr working group will be displayed and tracked will be [Bellande Rebotics & Sensors Research Innovation Center Website](robotics-sensors.github.io)
 
 ### Membership, Roles and Organization Management
 
