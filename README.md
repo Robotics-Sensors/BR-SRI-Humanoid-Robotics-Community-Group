@@ -89,6 +89,7 @@ If the repositories of the subproject are under the WG's GitHub organization, th
 - Discord Group: https://discord.gg/uETm8hKN2U
 - Google Group: https://groups.google.com/g/humanoid-robotics
 - Email Group: humanoid-robotics@googlegroups.com
+- Zoom Group: https://us04web.zoom.us/j/72128885030?pwd=niKSLGOHTI43h403K2IrBTW0O4aVxS.1
 
 ### Backlog Management
 
