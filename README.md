@@ -1,8 +1,8 @@
 # {BR&SRI} Humanoid Robotics Working Group
 
-Mission: The Humanoid Robotics Working Group's mission is to to build the architecture of humanoid robotics build that is
+**Mission**: The Humanoid Robotics Working Group's mission is to to build the architecture of humanoid robotics build that is
 
-Scope: The Scope of this working group will be to inovate and create new libraries, api, packages that is widely used by every researcher from industies and universities
+**Scope**: The Scope of this working group will be to inovate and create new libraries, api, packages that is widely used by every researcher from industies and universities
 
 ## Communication Channels
 - Ronaldson Bellande Linkedin: https://www.linkedin.com/in/ronaldson-bellande-5b9699178/
