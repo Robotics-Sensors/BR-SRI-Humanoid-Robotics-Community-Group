@@ -4,6 +4,20 @@ Mission: The Humanoid Robotics Working Group's mission is to to build the archit
 
 Scope: The Scope of this working group will be to inovate and create new libraries, api, packages that is widely used by every researcher from industies and universities
 
+## Communication Channels
+- Ronaldson Bellande Linkedin: https://www.linkedin.com/in/ronaldson-bellande-5b9699178/
+- BRSRI Center Linkedin Page: https://www.linkedin.com/company/bellande-robotics-sensors-research-innovations-center
+- Ronaldson Bellande GIthub: https://github.com/RonaldsonBellande
+- Email: ronaldsonbellande@gmail.com
+- Discord Group: https://discord.gg/uETm8hKN2U
+- Google Group: https://groups.google.com/g/humanoid-robotics
+- Email Group: humanoid-robotics@googlegroups.com
+- Zoom Group: https://us04web.zoom.us/j/72128885030?pwd=niKSLGOHTI43h403K2IrBTW0O4aVxS.1
+
+## Resources
+- Google Calendar: https://calendar.google.com/calendar/u/0/embed?src=c_3fc5c4d6ece9d80d49f136c1dcd54d7f44e1acefdbe87228c92ff268e85e2ea0@group.calendar.google.com&ctz=UTC
+- Notes and Presentation: https://github.com/Robotics-Sensors/BR-SRI-Humanoid-Robotics-PowerPoint
+
 ### Subproject List
 
 * BR&SRI Humanoid Robot Intelligence Control System Framework
@@ -83,13 +97,6 @@ If the repositories of the subproject are under the WG's GitHub organization, th
   * The meetings be announced in [Discourse](https://discourse.ros.org/t/potential-humanoid-robotics-monthly-working-group/36426/11), [Discord](https://discord.gg/uETm8hKN2U) as well as our [Bellande Rebotics & Sensors Research Innovation Center Website](robotics-sensors.github.io)
 
   * The Meeting will be video will be posted in [BR&SRI Youtube channel](https://www.youtube.com/channel/UC2dG9_JAw4NCug0G98JnQ5A)
-
-### Communication Channels
-- Email: ronaldsonbellande@gmail.com
-- Discord Group: https://discord.gg/uETm8hKN2U
-- Google Group: https://groups.google.com/g/humanoid-robotics
-- Email Group: humanoid-robotics@googlegroups.com
-- Zoom Group: https://us04web.zoom.us/j/72128885030?pwd=niKSLGOHTI43h403K2IrBTW0O4aVxS.1
 
 ### Backlog Management
 
