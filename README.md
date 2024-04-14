@@ -12,7 +12,8 @@
 - Discord Group: https://discord.gg/uETm8hKN2U
 - Google Group: https://groups.google.com/g/humanoid-robotics
 - Email Group: humanoid-robotics@googlegroups.com
-- Zoom Group: https://us04web.zoom.us/j/72128885030?pwd=niKSLGOHTI43h403K2IrBTW0O4aVxS.1
+- Google Meeting Calender: https://calendar.app.google/cvrnioVodvJxbaH77
+- Google Meeting Link: https://meet.google.com/jqv-upfg-qci
 
 ## Resources
 - Google Calendar: https://calendar.google.com/calendar/u/0/embed?src=c_3fc5c4d6ece9d80d49f136c1dcd54d7f44e1acefdbe87228c92ff268e85e2ea0@group.calendar.google.com&ctz=UTC
