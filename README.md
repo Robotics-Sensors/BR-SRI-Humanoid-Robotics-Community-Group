@@ -1,4 +1,4 @@
-# {BR&SRI} Humanoid Robotics Community Group for {ROS/ROS2 Offitial} {Open Robotics Official}
+# {BR&SRI} Humanoid Robotics Community Group for {Robotics Official} {Bellande Technologies Official}
 
 **Mission**: The Humanoid Robotics Working Group's mission is to to build the architecture of humanoid robotics build that is
 
